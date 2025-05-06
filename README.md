@@ -27,9 +27,7 @@ Recommendations
 
 -Since the Credit card payment channel is mostly preferred,I recommend the make available lots of credit card outlets to encourage effective customer shopping experience and excellent customer service.
 
--In regions were poor sales are made,the stakeholders can invest in sale representative staff training to improve their product knowledge, customer service efficiency and operational skills. 
-
-Also, a survey should be conducted in such regions to understand customer purchasing preferences in such regions and leverage on that by offering personalized promotions and discounts to such audience before stocking products in their stores located in the low performing regions.
+-In regions were poor sales are made,the stakeholders can invest in sale representative staff training to improve their product knowledge, customer service efficiency and operational skills. Also, a survey should be conducted in such regions to understand customer purchasing preferences in such regions and leverage on that by offering personalized promotions and discounts to such audience before stocking products in their stores located in the low performing regions.
 
 - They should always use proper store inventory mechanism to ensure most preferred products across regions never run out of stock in other not to loose customers to the competitive market.
 

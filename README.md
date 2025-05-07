@@ -2,6 +2,8 @@
 This report focuses on how to devise strategies to drive sales and revenue and boost profit generation
 Introduction
 
+![DASHBOARD 5](https://github.com/user-attachments/assets/68419db1-bfec-44f6-8390-1879ecd5bffa)
+
 What do supermarkets outlets want to achieve upon set up?
 I guess it's to generate more revenue and sales. Lots of factors play vital roles into ensuring that this agenda is effectively carried out while several factors can decline the revenue and profit generated across various regions, products in stock and sales representatives. 
 At Walkings store, they experienced some irregularities in there revenue growth and with the help of their data, effective analysis will conducted address the issues.
@@ -9,7 +11,6 @@ At Walkings store, they experienced some irregularities in there revenue growth 
 PROJECT GOAL
 
 To devise strategies that could boost sales revenue and profit generated across all regions.
-![DASHBOARD 5](https://github.com/user-attachments/assets/68419db1-bfec-44f6-8390-1879ecd5bffa)
 
 Key Observations
 

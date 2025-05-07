@@ -35,9 +35,9 @@ TOP SELLING PRODUCT
 
 PREFERRED PAYMENT CHANNEL
 
--The credit card payment type was most preferred by customers and this generated 35% of their revenue in sales compared to the cash and bank transfer method
+![image](https://github.com/user-attachments/assets/f30d3bb3-c358-4978-9620-5fdce71f38b0)
 
--More revenue was generated in the Northern region compared to East,west and southern regions. A total of $1,369,613 in sales was generated in the Northern part while the least sales was made in the southern region which made $1,154,251 in sales.
+-The credit card payment type was most preferred by customers and this generated 35% of their revenue in sales compared to the cash and bank transfer method
 
 BEST PERFORMING REGION
 
@@ -52,7 +52,7 @@ Recommendations
 
 -In regions were poor sales are made,the stakeholders can invest in sale representative staff training to improve their product knowledge, customer service efficiency and operational skills.Also, a survey should be conducted in such regions to understand customer purchasing preferences in such regions and leverage on that by offering personalized promotions and discounts to such audience before stocking products in their stores located in the low performing regions.
 
-- They should always use proper store inventory mechanism to ensure most preferred products across regions never run out of stock in other not to loose customers to the competitive market.
+-They should always use proper store inventory mechanism to ensure most preferred products across regions never run out of stock in other not to loose customers to the competitive market.
 
 -Provide incentives especially to the low selling performing products like food and Electronics as this will increase customer traffic and boost sales.
 

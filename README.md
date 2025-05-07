@@ -14,19 +14,41 @@ To devise strategies that could boost sales revenue and profit generated across 
 
 Key Observations
 
--Although there's an uneven but steady trajectory across month sales, Walkings store made most of their sales in January generating $677,765 in profit and made least sales in July generating $447,679. During this peak sales month,most profit came from the Northern region selling more of furniture.
+PROFIT TREND ACROSS ALL MONTHS IN 2024
 
--David made more sales thereby generating a profit of $1,501,750 especially in the month of October selling more of clothes in the southern region especially. Charlie made the least sales generally making his peaks in the month of January.
+![image](https://github.com/user-attachments/assets/fcebe3ef-3dd4-4911-84ae-ef4db682e8a9)
+
+Although there's an uneven but steady trajectory across month sales, Walkings store made most of their sales in January generating $677,765 in profit and made least sales in July generating $447,679. During this peak sales month,most profit came from the Northern region selling more of furniture.
+
+BEST SALES REPRESENTATIVE
+
+![image](https://github.com/user-attachments/assets/a553f329-27f3-4a6b-a075-0e651d5e6518)
+
+
+David made more sales thereby generating a profit of $1,501,750 especially in the month of October selling more of clothes in the southern region especially. Charlie made the least sales generally making his peaks in the month of January.
+
+TOP SELLING PRODUCT
+
+![image](https://github.com/user-attachments/assets/27ecfca8-7f17-4a1b-a040-821d6902e506)
 
 -The most sold product in store was the clothes which generated $1,313,474 in sales while the least performing product was the food item generating $1,201,774 in sales.
+
+PREFERRED PAYMENT CHANNEL
 
 -The credit card payment type was most preferred by customers and this generated 35% of their revenue in sales compared to the cash and bank transfer method
 
 -More revenue was generated in the Northern region compared to East,west and southern regions. A total of $1,369,613 in sales was generated in the Northern part while the least sales was made in the southern region which made $1,154,251 in sales.
 
+BEST PERFORMING REGION
+
+![image](https://github.com/user-attachments/assets/9c19f89c-8352-4e0f-9c9a-f18b2791fcf5)
+
+More revenue was generated in the Northern region compared to East,west and southern regions. A total of $1,369,613 in sales was generated in the Northern part while the least sales was made in the southern region which made $1,154,251 in sales.
+
 Recommendations
 
--Since the Credit card payment channel is mostly preferred,I recommend the make available lots of credit card outlets to encourage effective customer shopping experience and excellent customer service.
+-since the Credit card payment channel is mostly preferred,I recommend the make available lots of credit card outlets to encourage effective customer shopping experience and excellent customer service.
+
 
 -In regions were poor sales are made,the stakeholders can invest in sale representative staff training to improve their product knowledge, customer service efficiency and operational skills.Also, a survey should be conducted in such regions to understand customer purchasing preferences in such regions and leverage on that by offering personalized promotions and discounts to such audience before stocking products in their stores located in the low performing regions.
 
